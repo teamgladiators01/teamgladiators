@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chat Assistant",
+  "description": "A sophisticated AI-powered chatbot assistant using Gemini 3.1 Pro.",
+  "requestFramePermissions": []
+}
